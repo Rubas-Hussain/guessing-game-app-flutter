@@ -3,7 +3,7 @@ import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:guessing_game/ui/home_screen/home_screen.dart';
 import 'package:guessing_game/utils/app_colors.dart';
-import 'package:guessing_game/widgets/MyCustomButton.dart';
+import 'package:guessing_game/widgets/my_custom_button.dart';
 
 class IntroScreen extends StatelessWidget {
   const IntroScreen({super.key});

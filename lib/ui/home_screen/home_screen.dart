@@ -5,7 +5,7 @@ import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:guessing_game/ui/home_screen/home_controller.dart';
 import 'package:guessing_game/utils/app_colors.dart';
-import 'package:guessing_game/widgets/MyCustomButton.dart';
+import 'package:guessing_game/widgets/my_custom_button.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
