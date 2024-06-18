@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.white),
         elevatedButtonTheme: ElevatedButtonThemeData(
           style: ButtonStyle(
-            surfaceTintColor: MaterialStateProperty.all(AppColors.whiteColor),
+            surfaceTintColor: WidgetStateProperty.all(AppColors.whiteColor),
             splashFactory: NoSplash.splashFactory
           ),
         ),
