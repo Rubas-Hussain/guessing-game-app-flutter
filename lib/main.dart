@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
           style: ButtonStyle(
             surfaceTintColor: MaterialStateProperty.all(AppColors.whiteColor),
             splashFactory: NoSplash.splashFactory
-          )
+          ),
         ),
         useMaterial3: true,
       ),

@@ -19,7 +19,6 @@ class IntroScreen extends StatelessWidget {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
-            
                 Align(
                   alignment: Alignment.centerLeft,
                   child: Text('Guessing Game',
